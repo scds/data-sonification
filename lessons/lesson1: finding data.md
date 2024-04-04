@@ -46,7 +46,7 @@ If you, like we were, are interested in datasets related to breaches specificall
 
 1) Data from: Health IT, hacking, and cybersecurity: national trends in data breaches of protected health information 
 
-2)  For-profit versus non-profit cybersecurity posture: breach types and locations in healthcare organisations 
+2) For-profit versus non-profit cybersecurity posture: breach types and locations in healthcare organisations 
 
 3) Data Breaches Dataset 
 
