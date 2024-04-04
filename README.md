@@ -1,4 +1,4 @@
-# << ENTER WORKSHOP NAME HERE >>
+# << Sonifying Data >>
 Materials for the << ENTER SERIES HERE (DASH/DMDS/RDM/etc.) >> workshop: **<<  ENTER WORKSHOP NAME HERE  >> **  
 
 This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/<<enter_site_url>>) with GitHub Pages. 
