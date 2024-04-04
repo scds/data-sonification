@@ -15,18 +15,11 @@ Add, edit, or remove any content below for the workshop in question. -->
 <img src="assets/img/titleSlide.png" alt="Workshop Title Slide" width="100%">
 
 <!-- Main header -->
-# Getting started with ___.
+# Getting started with Sonifying Data.
 
-This is a short description about the topic of the workshop. Replace this text with your own.
+Welcome, budding sound data enthusiast! If you're curious about collecting data to sonify or simply looking to enhance your research skills, you've come to the right place. Here, we'll introduce you to a study that delved into understanding international media discourses surrounding massive data breaches. Here we used sonification as a primary methodology in order to gain new understandings of the data we had collected. By the end of this guide, you should have a clear roadmap on how to embark on your own data collection and sonification journey. 
 
-In this tutorial, you will learn about ______.
-
-## Prerequisites
-
-<!-- If creating or installing is covered in the module (preparation), mention that in brackets. -->
-- A [GitHub.com](https://www.github.com) account.
-- Installation of [Python](https://www.python.org/downloads/). (This will be covered in the [Preparation](preparation) page)
-- Some familiary with **softwareName/topic here**
+In this tutorial, you will learn how to sonify your data.
 
 <!-- What will the student learn to do, learn to use, etc. -->
 ## Learning Objectives
