@@ -31,43 +31,30 @@ First we needed to consider what narrative elements we wanted to bring out in th
 
 For our use-case we: 
 
-Engaged in critical discourse analysis to understand the intricacies of our sources. 
-
-Focused on words and phrases that contained ideological associations. 
-
-Assigned a numerical “scoring framework” to the terms we isolated  
-
-Organized these terms in their respective rows/column assignment  
+- Engaged in critical discourse analysis to understand the intricacies of our sources. 
+- Focused on words and phrases that contained ideological associations. 
+- Assigned a numerical “scoring framework” to the terms we isolated  
+- Organized these terms in their respective rows/column assignment  
 
 Remember: The goal is to understand the broader context in which your topic exists and how it is perceived and discussed in various circles. This will look slightly different for each use case, ours is only an example to give you an idea of how qualitative work can be translated into quantitative terms for the purposes of using this tool.  
 
-Note: There are many tools like tone.js and ChucK that allow you to transform qualitative data without using this process, but they require previous knowledge in coding to use. 
+<em> Note: There are many tools like tone.js and ChucK that allow you to transform qualitative data without using this process, but they require previous knowledge in coding to use. </em> 
 
 You can also opt to track quantitative data points where possible, including:  
+- Number of breaches that year 
+- Amount of data compromised per breach 
+- Source of the breach (e.g., hacking, human error, crypto extortion). 
 
-Number of breaches that year 
-
-Amount of data compromised per breach 
-
-Source of the breach (e.g., hacking, human error, crypto extortion). 
-
- 
-
-Next you need to clean or prepare your data: 
+Next you need to clean or <b> prepare your data: </b> 
 
 Ensure that there are no missing values or outliers that could distort the sonification such as missing dates, non-responses in survey data, entry errors, or measurement errors. 
 
-Side Bar: A Note on Handling Anomalies in Data: When dealing with outliers, consider using statistical methods like the Interquartile Range (IQR) – a method of understanding the spread of data points by focusing on its central portion – to identify and manage them. While this was not relevant to our case, there are some established processes for achieving this, including: 
+<b> Side Bar: A Note on Handling Anomalies in Data: </b> When dealing with outliers, consider using statistical methods like the Interquartile Range (IQR) – a method of understanding the spread of data points by focusing on its <b> central </b> portion – to identify and manage them. While this was not relevant to our case, there are some established processes for achieving this, including: 
+- For missing data, techniques such as mean imputation, where missing values are replaced with the mean of that variable, or;  
+- More sophisticated approaches like k-nearest neighbors (KNN) imputation – a technique that uses an algorithm to fill in missing pieces of data by imputing missing databased on the value of that data’s nearest neighbours – can be employed.  
+- It's crucial to understand the nature of your data to choose the most appropriate method. 
 
-For missing data, techniques such as mean imputation, where missing values are replaced with the mean of that variable, or;  
-
-More sophisticated approaches like k-nearest neighbors (KNN) imputation – a technique that uses an algorithm to fill in missing pieces of data by imputing missing databased on the value of that data’s nearest neighbours – can be employed.  
-
-It's crucial to understand the nature of your data to choose the most appropriate method. 
-
- 
-
-Normalize: Scale your data so that the values fit within a range suitable for sonification, e.g., frequency ranges. For this process we developed a Scoring Framework: 
+<b> Normalize: </b> Scale your data so that the values fit within a range suitable for sonification, e.g., frequency ranges. For this process we developed a <b> Scoring Framework: </b> 
 
 The scoring framework was developed by analyzing the data's distribution and identifying a suitable scaling method. We used Min-Max normalization to transform the data, ensuring that all values fell within our desired frequency range, thus making the sonification process more coherent and interpretable. 
 
