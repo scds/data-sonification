@@ -20,9 +20,11 @@ A small description about the lesson.
 </details>
 
 ## Lesson Objectives
-- A learning objective.
-- Second learning objective.
-- Another learning objective.
+- Utilize sonification software effectively, choosing parameters that reflect the intended emotional and narrative impact of the data. 
+- Perform initial data setup in sonification platforms, optimizing data for the tool’s features and user interface. 
+- Manage and refine sonification projects through track creation, audio layering, and tempo adjustments to achieve the desired auditory presentation. 
+- Use advanced features in sonification tools to fine-tune the data’s sound, enhancing the overall quality and clarity of the sonification. 
+- Ensure effective saving, exporting, and sharing of sonifications to maximize their impact and accessibility for intended audiences. 
 
 ## Lesson Video
 The following video demonstrates each of the steps outlined below in text.
