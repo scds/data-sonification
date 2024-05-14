@@ -56,6 +56,9 @@ Documentation: If you're the type who loves details, TwoTone's documentation is 
 
 ## Upload Your Data 
 
+<img src="assets/img/UploadYourData.png" alt="Screenshot of Two Tone: Select Your Data Source" width="100%">![image](https://github.com/scds/data-sonification/blob/673e824c9dcdec0c6ead76108f8fb2c041b93d51/assets/img/UploadYourData.png)
+
+
 Data Import: The software allows easy uploading and navigation of datasets, displaying a stacked view of each column with titles. When we started, we first uploaded our data breach dataset as a single excel spreadsheet, ensuring the .csv or .xlxs was readable. Note: TwoTone also offers sample spreadsheets if you just want to get a feel for the tool. 
 
 Initial Setup: Begin by selecting a range of data for sonification. This choice influences the narrative and impact of the sonification. Consider the story you want the data to tell and the aspects you wish to emphasize or omit. 
