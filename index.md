@@ -21,15 +21,6 @@ Welcome, budding sound data enthusiast! If you're curious about collecting data 
 
 In this tutorial, you will learn how to sonify your data.
 
-<!-- What will the student learn to do, learn to use, etc. -->
-## Learning Objectives
-By the end of this workshop, you will be able to:
-- Learning objective 1
-- Learning objective 2
-- Learning objective 3
-- Learning objective 4
-- You can add more here.
-
 <!-- Estimate the time the workshop will take to complete. Feel free to remove this. -->
 ## Duration (optional)
 This module will take around 1 to 2 hours, however feel free to work at your own pace!
