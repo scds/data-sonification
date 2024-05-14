@@ -69,6 +69,8 @@ Initial Setup: Begin by selecting a range of data for sonification. This choice 
 
 ## Choosing Parameters 
 
+<img src="assets/img/ChoosingParamaters.png" alt="Screenshot of Two Tone" width="100%">![image](https://github.com/scds/data-sonification/blob/48d63d89bc49e995c81ddaa679dae09ac7a5cb2d/assets/img/ChoosingParamaters.png)
+
 Two-Tone offers a range of parameters such as pitch, volume, rhythm, and tempo. The selection of these parameters should be aligned with the intended narrative and emotional impact of the data. Considerations for parameter mapping will depend on your specific needs, but in general the goal is to link specific data values to sound parameters. 
 
 For our data, we organized and scored the breach discourse spreadsheets according to sections like “Breach year”, “month of coverage”, “perpetrator language”, “victim language”, etc.  
