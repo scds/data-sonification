@@ -26,11 +26,6 @@ A small description about the lesson.
 - Use advanced features in sonification tools to fine-tune the data’s sound, enhancing the overall quality and clarity of the sonification. 
 - Ensure effective saving, exporting, and sharing of sonifications to maximize their impact and accessibility for intended audiences. 
 
-## Lesson Video
-The following video demonstrates each of the steps outlined below in text.
-
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/a65689c0-c35c-4f33-9c12-f0ac97883f54/public?autoplay=false&automute=false"></iframe>
-[View original here.](https://echo360.ca/media/a65689c0-c35c-4f33-9c12-f0ac97883f54/public?autoplay=false&automute=false)
 
 ## Part 1: Priming/Instructional Component 
 
