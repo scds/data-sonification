@@ -27,9 +27,11 @@ A small description about the lesson.
 
 <!-- Here are your learning objectives. Just like in the introduction, but more specific for this lesson. -->
 ## Lesson Objectives
-- A learning objective.
-- Second learning objective.
-- Another learning objective.
+- Recognize the importance of ethical considerations in data collection, especially concerning privacy and anonymization. 
+- Learn to identify and utilize various data repositories and search platforms for sourcing data relevant to specific research areas. 
+- Develop skills in crafting search strategies that incorporate multiple search terms and filters to refine source selection. 
+- Gain proficiency in selecting and evaluating data from diverse sources to ensure a balanced and comprehensive dataset. 
+- Master techniques in organizing and analyzing data to highlight relevant patterns and terms that will inform the sonification process. 
 
 
 ## Part 1: Collecting Data  
