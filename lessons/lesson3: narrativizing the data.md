@@ -23,9 +23,11 @@ A small description about the lesson.
 </details>
 
 ## Lesson Objectives
-- A learning objective.
-- Second learning objective.
-- Another learning objective.
+- Create a scoring framework that transforms data into a narrative form, using data points as characters to highlight conflicts and tensions. 
+- Select sonification tools that align with the research narrative, understanding the impact of musical elements on data interpretation. 
+- Manipulate musical elements such as instrument choice, volume, and tempo to enhance the storytelling aspect of sonification. 
+- Prepare sonifications for public presentation, using accessible formats and detailed methodological explanations to aid understanding and replication. 
+- Explore various platforms for sharing sonifications, ensuring they are accessible to a broad audience including academicians and the public. 
 
 
 ## Part 1) The Scoring Framework 
