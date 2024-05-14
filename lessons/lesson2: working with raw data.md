@@ -20,9 +20,11 @@ A small description about the lesson.
 </details>
 
 ## Lesson Objectives
-- A learning objective.
-- Second learning objective.
-- Another learning objective.
+- Convert qualitative data into quantifiable scores that can be used for sonification, developing a scoring framework based on narrative needs. 
+- Handle data anomalies such as missing values or outliers through appropriate cleaning techniques to preserve data quality. 
+- Normalize data to ensure that it fits within the acceptable range for sonification, using methods like Min-Max scaling. 
+- Ensure consistency in data handling across multiple researchers using reliability measures such as Cohen’s Kappa and Fleiss’ Kappa. 
+- Familiarize with and utilize software tools that facilitate the conversion of qualitative to quantitative data for non-coders. 
 
 
 ## Rendering Data Usable for Sonification in Two-Tone: A Multi-Step Process  
