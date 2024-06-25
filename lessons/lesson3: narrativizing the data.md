@@ -11,17 +11,6 @@ grand_parent: Lessons
 {: .no_toc}  
 # Lesson 3- Narrativizing the Data 
 
-A small description about the lesson.
-
-<details markdown="block" class="toc">
-  <summary>
-    Table of Contents
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
-
 ## Lesson Objectives
 - Create a scoring framework that transforms data into a narrative form, using data points as characters to highlight conflicts and tensions. 
 - Select sonification tools that align with the research narrative, understanding the impact of musical elements on data interpretation. 
@@ -55,11 +44,3 @@ Present on a platform like YouTube or SoundCloud
 You will likely want to include text alongside the sonifications to help contextualize the sonification and its representation of your research. It may be helpful to break down how and why you developed your scoring framework in the way that you did. Providing this information can also help other researchers replicate your sonification.
 
 
-## Key Points / Summary
-
-- Remind the student about what they just learned.
-- You can also note down any key information to keep in mind.
-
-## Additional Resources (optional)
-
-- Here, you can list some additional resources the student can access to learn more about this lesson.
