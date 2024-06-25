@@ -33,11 +33,11 @@ Note: For optimal experience, using Google Chrome is recommended.
 
 ## Getting Started with TwoTone 
 
-Web App: Dive straight in by using the web application at sonify.io/twotone/. For the best performance, we recommend using the Google Chrome web browser. 
+Web App: Dive straight in by using the web application at <a href="http://sonify.io/twotone/" target="_blank" rel="noopener noreferrer">sonify.io/twotone/.</a>  For the best performance, we recommend using the Google Chrome web browser. 
 
-Official Page: Check out the tool's features and updates at twotone.io. 
+Official Page: Check out the tool's features and updates at <a href="https://twotone.io/" target="_blank" rel="noopener noreferrer">twotone.io.</a> 
 
-Documentation: If you're the type who loves details, TwoTone's documentation is comprehensive. 
+Documentation: If you're the type who loves details, TwoTone's <a href="https://github.com/sonifydata/twotone/" target="_blank" rel="noopener noreferrer">documentation</a> is comprehensive. 
 
 ## Upload Your Data 
 
@@ -116,5 +116,11 @@ Export: TwoTone lets you save your project as an MP3 or Waveform (PCM). We found
 
 Share: Find some hashtags or online organizations that might help you spread the word about your creation! 
 
+## Other Tips & Tricks
 
+Narration Audio: Perfect for adding voiceovers or background music. 
+
+Re-ordering: Just drag a track's handle on the right to rearrange. 
+
+Dive Deeper: TwoTone’s “Midi” feature allows you to create additional sounds using a program like <a href="https://www.bitwig.com/overview/" target="_blank" rel="noopener noreferrer">BitWig Studio</a> to expand your workflow, but will take some additional experimentation to learn what the program has to offer.
 
