@@ -8,17 +8,6 @@ parent: Lessons
 {: .no_toc}  
 # Lesson 2 - Working with Raw Data
 
-A small description about the lesson.
-
-<details markdown="block" class="toc">
-  <summary>
-    Table of Contents
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
-
 ## Lesson Objectives
 - Convert qualitative data into quantifiable scores that can be used for sonification, developing a scoring framework based on narrative needs. 
 - Handle data anomalies such as missing values or outliers through appropriate cleaning techniques to preserve data quality. 
@@ -65,11 +54,3 @@ Ensure that there are no missing values or outliers that could distort the sonif
 a) You may also want to use <a href="https://dovetail.com/research/intercoder-reliability/" target="_blank" rel="noopener noreferrer">intercoder reliability formulas</a> to ensure that your data coding process is relatable and consistent. These formulas measure the agreement between different coders who classify, rate, or categorize the same dataset. Common formulas include Cohen's Kappa, which adjusts for agreement occurring by chance; Krippendorff's Alpha, suitable for any number of coders and different types of data; and Fleiss' Kappa, designed for evaluating agreement among three or more coders. 
 
 
-## Key Points / Summary
-
-- Remind the student about what they just learned.
-- You can also note down any key information to keep in mind.
-
-## Additional Resources (optional)
-
-- Here, you can list some additional resources the student can access to learn more about this lesson.
