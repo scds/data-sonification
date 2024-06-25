@@ -13,18 +13,6 @@ Add, edit, or remove any content below for the workshop in question. -->
 {: .no_toc}  
 # Lesson 1 - Finding Data
 
-A small description about the lesson.
-
-<!-- This is your table of contents. You don't need to touch it, it automatically creates it when you add or remove headers. If you do not want a header to be included, put {: .no_toc } above the header line, as you can see above with Lesson 1 - Lesson Name. Make sure that there's also an empty line above {: .no_toc }... Markdown is picky about this :( -->
-<details markdown="block" class="toc">
-  <summary>
-    Table of Contents
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
-
 <!-- Here are your learning objectives. Just like in the introduction, but more specific for this lesson. -->
 ## Lesson Objectives
 - Recognize the importance of ethical considerations in data collection, especially concerning privacy and anonymization. 
@@ -90,13 +78,3 @@ For our study, the team selected around 5 articles from each source, amassing a 
 Create summaries for each primary source. Note down key descriptions and metaphors that qualify specific categories relevant to your study. Our team looked into perpetrators, breach framing, perceived risk, victims, and data, among others. Track observations in a structured format, like an Excel spreadsheet. This aids in capturing language patterns, expressions, and specific terminologies. For nuanced understanding, our team preferred manual methods over automated ones, emphasizing the depth and interconnections between sources. 
 
 
-<!-- Summarize your learning objectives here. It acts as a reminder to the learner about what they just learned, as well as a checklist for you to make sure you covered everything you wished to cover. -->
-## Key Points / Summary
-
-- Remind the student about what they just learned.
-- You can also note down any key information to keep in mind.
-
-<!-- You can add your additional resources for a specific lesson here, however there is also an additional resources page alongside the conclusion at the end of the workshop website. -->
-## Additional Resources (optional)
-
-- Here, you can list some additional resources the student can access to learn more about this lesson.
