@@ -44,8 +44,8 @@ Here are some resources, communities, forums, and groups where enthusiasts can s
 
 ### Reddit Communities: 
 - Subreddits like r/dataisbeautiful sometimes feature sonification projects and can be a good place for discussions and feedback. 
-- Website: <a href="https://www.reddit.com/r/dataisbeautiful/" target="_blank" rel="noopener noreferrer">Reddit - DataIsBeautiful</a> 
-
+- Website: <a href="https://www.reddit.com/r/dataisbeautiful/" target="_blank" rel="noopener noreferrer">Reddit- DataIsBeautiful</a>
+  
 ### Academic Journals: 
 - Reading academic journals such as the Journal of Sonic Studies can provide deep insights into the theoretical and practical aspects of sonification. 
 - Website: <a href="https://www.researchcatalogue.net/view/558606/558607" target="_blank" rel="noopener noreferrer">Journal of Sonic Studies</a> 
