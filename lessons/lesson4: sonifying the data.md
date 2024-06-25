@@ -8,16 +8,6 @@ parent: Lessons
 {: .no_toc}  
 # Lesson 4 - Sonifying the Data
 
-A small description about the lesson.
-
-<details markdown="block" class="toc">
-  <summary>
-    Table of Contents
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
 
 ## Lesson Objectives
 - Utilize sonification software effectively, choosing parameters that reflect the intended emotional and narrative impact of the data. 
@@ -127,11 +117,4 @@ Export: TwoTone lets you save your project as an MP3 or Waveform (PCM). We found
 Share: Find some hashtags or online organizations that might help you spread the word about your creation! 
 
 
-## Key Points / Summary
 
-- Remind the student about what they just learned.
-- You can also note down any key information to keep in mind.
-
-## Additional Resources (optional)
-
-- Here, you can list some additional resources the student can access to learn more about this lesson.
