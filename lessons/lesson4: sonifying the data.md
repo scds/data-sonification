@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lesson 4 - Sonifying the Data
-nav_order: 4
+nav_order: 5
 parent: Lessons
 ---
 
