@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lesson 1 - Finding Data
+title: Background to the Project
 nav_order: 1
 parent: Lessons
 ---
