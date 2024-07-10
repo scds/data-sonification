@@ -66,13 +66,25 @@ In order to parse out information about the language use and public coverage of 
 
 ## Basic steps involved: 
 
+<video src="assets/img/CraftingYourDataSound.mp4" alt="Screen Recording of Basic Steps Involved" width="100%">! [video](https://github.com/scds/data-sonification/blob/4408454907ed2c857bfd69c5a82e06575edf4606/assets/img/CraftingYourDataSound.mp4)
+
+TwoTone lets you have multiple tracks, each representing different facets of your data. 
+
+This allows you to sonify different types of data, such as dates & years, as well as your textual data (transformed into numerical representation). 
+
+We added tracks by simply clicking the "+" button. TwoTone currently supports: 
+
+Musical Scale: This transforms data values into musical notes. 
+
 Generate Audio: TwoTone instantly creates an audio track from your data.  
 
+Volume Control: Each track's volume can be adjusted, ensuring none overshadows the others, or if you want to bring out certain voices in the track. 
+
+Mute or Delete: Use the speaker button to mute a track or the trash can icon to delete one (but remember, it's permanent!). 
+
+Midi: TwoTone gives you the option of using the “Midi” feature to expand your sonification horizons. This option can be found at the top right of the module, right next to the delete and help buttons.  
+
 Listen: Hit the "Play" button to hear your data come alive. 
-
-Add More Layers: You can generate additional audio tracks from your dataset or even introduce your own audio. 
-
-TwoTone’s “Midi” feature allows you to create additional sounds using a program like BitWig Studio to expand your workflow, but will take some additional experimentation to learn what the program has to offer. 
 
 ## Fine-Tuning Your Creation 
 
