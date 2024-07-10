@@ -18,7 +18,7 @@ parent: Lessons
 
 ## Choosing Tools and Software 
 
-<img src="assets/img/HumanitiesCommons.png" alt="Humanities Commons homepage" width="100%">![image](https://github.com/scds/data-sonification/blob/8ba203a4ca721c646f7369fc786df153b6d9d3c8/assets/img/HumanitiesCommons.png) 
+<img src="../assets/img/HumanitiesCommons.png" alt="Humanities Commons homepage" width="100%">
 
 The tools you end up using to sonify your data will generally depend on if you have any previous experience with coding. The following Humanities Commons guide for beginners lists many tools that range from a <a href="https://mlaetsc.hcommons.org/2023/01/18/data-sonification-for-beginners/" target="_blank" rel="noopener noreferrer">low-high barrier for entry</a>. Other popular options include: Max/MSP, Pure Data, Audacity, Supercollider, Tone.js, ChucK, Estuary, etc. 
 
@@ -26,7 +26,7 @@ But let’s say you don’t have any coding experience. In that case, platforms 
 
 ## Using Two-Tone 
 
-<img src="assets/img/UsingTwoTone.png" alt="Screeshot of Two-Tone" width="100%">![image](https://github.com/scds/data-sonification/blob/8ba203a4ca721c646f7369fc786df153b6d9d3c8/assets/img/UsingTwoTone.png)
+<img src="../assets/img/UsingTwoTone.png" alt="Screeshot of Two-Tone" width="100%">
 
 Overview: Two-Tone is designed for simplicity, catering to beginners. The interface includes hints to assist users through its features, including advanced tools like the MIDI out feature. 
 
@@ -42,7 +42,7 @@ Documentation: If you're the type who loves details, TwoTone's <a href="https://
 
 ## Upload Your Data 
 
-<img src="assets/img/UploadYourData.png" alt="Screenshot of Two Tone: Select Your Data Source" width="100%">![image](https://github.com/scds/data-sonification/blob/673e824c9dcdec0c6ead76108f8fb2c041b93d51/assets/img/UploadYourData.png)
+<img src="../assets/img/UploadYourData.png" alt="Screeshot of Two-Tone" width="100%">
 
 Data Import: The software allows easy uploading and navigation of datasets, displaying a stacked view of each column with titles. When we started, we first uploaded our data breach dataset as a single excel spreadsheet, ensuring the .csv or .xlxs was readable. Note: TwoTone also offers sample spreadsheets if you just want to get a feel for the tool. 
 
@@ -52,7 +52,7 @@ Initial Setup: Begin by selecting a range of data for sonification. This choice 
 
 ## Choosing Parameters 
 
-<img src="assets/img/ChoosingParamaters.png" alt="Screenshot of Two Tone" width="100%">![image](https://github.com/scds/data-sonification/blob/48d63d89bc49e995c81ddaa679dae09ac7a5cb2d/assets/img/ChoosingParamaters.png)
+<img src="../assets/img/ChoosingParamaters.png" alt="Screeshot of Two-Tone" width="100%">
 
 Two-Tone offers a range of parameters such as pitch, volume, rhythm, and tempo. The selection of these parameters should be aligned with the intended narrative and emotional impact of the data. Considerations for parameter mapping will depend on your specific needs, but in general the goal is to link specific data values to sound parameters. 
 
