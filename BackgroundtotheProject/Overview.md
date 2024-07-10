@@ -2,7 +2,7 @@
 layout: default
 title: Background to the Project
 nav_order: 1
-parent: BackgroundtotheProject
+parent: Background
 ---
 
 <!-- 
