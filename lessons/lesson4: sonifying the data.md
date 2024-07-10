@@ -66,7 +66,7 @@ In order to parse out information about the language use and public coverage of 
 
 ## Basic steps involved: 
 
-<iframe width="416" height="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/683cdaf3-df77-484d-9541-fbcb59a54f4c/public?autoplay=false&automute=false"></iframe>
+<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/eda77c81-3436-45f9-beae-60957700719b/public?autoplay=false&automute=false"></iframe> 
 
 TwoTone lets you have multiple tracks, each representing different facets of your data. 
 
