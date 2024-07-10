@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lesson 2 - Working with Raw Data
-nav_order: 2
+nav_order: 3
 parent: Lessons
 ---
 
