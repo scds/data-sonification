@@ -2,7 +2,7 @@
 layout: default
 title: Methods
 nav_order: 3
-parent: BackgroundtotheProject
+parent: Background
 ---
 
 <!-- 
