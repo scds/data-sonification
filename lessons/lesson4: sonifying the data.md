@@ -66,7 +66,7 @@ In order to parse out information about the language use and public coverage of 
 
 ## Basic steps involved: 
 
-<video src="assets/img/CraftingYourDataSound.mp4" alt="Screen Recording of Basic Steps Involved" width="100%">! [video](https://github.com/scds/data-sonification/blob/4408454907ed2c857bfd69c5a82e06575edf4606/assets/img/CraftingYourDataSound.mp4)
+<video width="320" height="240" controls loop=""> <source src="https://github.com/scds/data-sonification/raw/main/assets/img/CraftingYourDataSound.mp4"> </video>
 
 TwoTone lets you have multiple tracks, each representing different facets of your data. 
 
