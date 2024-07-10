@@ -18,17 +18,21 @@ parent: Lessons
 
 ## Choosing Tools and Software 
 
+<img src="assets/img/HumanitiesCommons.png" alt="Humanities Commons homepage" width="100%">![image](https://github.com/scds/data-sonification/blob/8ba203a4ca721c646f7369fc786df153b6d9d3c8/assets/img/HumanitiesCommons.png) 
+
 The tools you end up using to sonify your data will generally depend on if you have any previous experience with coding. The following Humanities Commons guide for beginners lists many tools that range from a <a href="https://mlaetsc.hcommons.org/2023/01/18/data-sonification-for-beginners/" target="_blank" rel="noopener noreferrer">low-high barrier for entry</a>. Other popular options include: Max/MSP, Pure Data, Audacity, Supercollider, Tone.js, ChucK, Estuary, etc. 
 
 But let’s say you don’t have any coding experience. In that case, platforms like "Two-Tone" offer an easy introduction without requiring advanced programming skills. 
 
 ## Using Two-Tone 
 
+<img src="assets/img/UsingTwoTone.png" alt="Screeshot of Two-Tone" width="100%">![image](https://github.com/scds/data-sonification/blob/8ba203a4ca721c646f7369fc786df153b6d9d3c8/assets/img/UsingTwoTone.png)
+
 Overview: Two-Tone is designed for simplicity, catering to beginners. The interface includes hints to assist users through its features, including advanced tools like the MIDI out feature. 
 
 Note: For optimal experience, using Google Chrome is recommended. 
 
-## Getting Started with TwoTone 
+## Getting Started with Two-Tone 
 
 Web App: Dive straight in by using the web application at <a href="http://sonify.io/twotone/" target="_blank" rel="noopener noreferrer">sonify.io/twotone/.</a>  For the best performance, we recommend using the Google Chrome web browser. 
 
