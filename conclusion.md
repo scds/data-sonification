@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Conclusion & Additional Resources
-nav_order: 5
+nav_order: 6
 ---
 <!-- 
 This page will go over the conclusion and additional resources for the workshop.
