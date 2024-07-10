@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lesson 3- Narrativizing the Data
-nav_order: 3
+nav_order: 4
 parent: Lessons
 
 # Notice the two lines below. Since this is a sub-lesson of a lesson (Lesson 3a), it's parent is lesson 3 and it's grandparent is Lessons. Make sure to include this if you decide to have sub-lessons. 
