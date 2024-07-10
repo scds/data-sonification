@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lesson 1 - Finding Data
-nav_order: 1
+nav_order: 2
 parent: Lessons
 ---
 <!-- 
