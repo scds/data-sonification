@@ -21,7 +21,7 @@ parent: Lessons
 
 ## Choosing Tools and Software 
 
-The tools you end up using to sonify your data will generally depend on if you have any previous experience with coding. The following Humanities Commons guide for beginners lists many tools that range from a low-high barrier for entry. Other popular options include: Max/MSP, Pure Data, Audacity, Supercollider, Tone.js, ChucK, Estuary, etc. 
+The tools you end up using to sonify your data will generally depend on if you have any previous experience with coding. The following Humanities Commons guide for beginners lists many tools that range from a <a href="https://mlaetsc.hcommons.org/2023/01/18/data-sonification-for-beginners/" target="_blank" rel="noopener noreferrer">low-high barrier for entry</a>. Other popular options include: Max/MSP, Pure Data, Audacity, Supercollider, Tone.js, ChucK, Estuary, etc. 
 
 But let’s say you don’t have any coding experience. In that case, platforms like "Two-Tone" offer an easy introduction without requiring advanced programming skills. 
 
