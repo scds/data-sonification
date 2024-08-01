@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Sonification- A Method of Inquiry
-nav_order: 4
+title: Works Cited
+nav_order: 5
 parent: Background
 ---
 
