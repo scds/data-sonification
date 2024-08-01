@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sonification- A Method of Inquiry
+title: Parting Thoughts
 nav_order: 4
 parent: Background
 ---
