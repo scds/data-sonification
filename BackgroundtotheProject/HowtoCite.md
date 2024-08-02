@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Sonification- A Method of Inquiry
-nav_order: 2
+title: How to Cite
+nav_order: 9
 parent: Background
 ---
 
