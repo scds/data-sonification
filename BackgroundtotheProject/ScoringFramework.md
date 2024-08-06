@@ -63,10 +63,8 @@ We came up with this <a href="https://mcmasteru365-my.sharepoint.com/:w:/g/perso
 <b> Risk to company </b> tracks whether a risk to the company was articulated or not. We felt this was important to discern in relation to other company data and the broader framing of the data breach as a security crisis. Similarly to the company named variable, we chose to score when the risk to a company was articulated as a 2 to produce a sound with a higher pitch and render more audible those instances when risk was ascribed to an organization. 
 
 <b> Risk to Company </b>
+- 1 =	No 
+- 2 =	Yes 
 
-1	No 
-
-2	Yes 
-
- 
+Although <b> size </b> is not represented in the framework because it was already recorded numerically in the Excel spreadsheet, this variable was used in the sonification and represents the number of accounts compromised in each of the data breach cases. If a source did not reveal this information, we in-put a ‘0’ value into the spreadsheet. Remarkably, we encountered this with only one case, the Twitch breach in 2021. Unlike the reporting of all the other cases that revealed the number of accounts compromised, the focus of the Twitch case was on the amount of data (1000GB) leaked.  We were interested in tracking the size of the data breach to understand how size corresponded to the other variables.  
 
