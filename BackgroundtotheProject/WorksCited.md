@@ -22,8 +22,7 @@ Cvetkovich, A. (2003). <em> An archive of feelings: trauma, sexuality, and lesbi
 
 Couldry, N. (2004). Theorising media as practice. <em> Social Semiotics, </em> 14(2), 115–132. https://doi.org/10.1080/1035033042000238295 
 
-Debashi, M. (2018). <em> Interactive sonification of network traffic to support cyber security situational awareness. </em> Doctoral thesis. Northumbria University.  
-http://nrl.northumbria.ac.uk/id/eprint/39458  
+Debashi, M. (2018). <em> Interactive sonification of network traffic to support cyber security situational awareness. </em> Doctoral thesis. Northumbria University. http://nrl.northumbria.ac.uk/id/eprint/39458  
 
 Dunn Cavelty, M. (2018). Cybersecurity research meets science and technology studies. <em> Politics and Governance, </em> 6(2), 22-20. https://doi.org/10.17645/pag.v6i2.1385 
 
