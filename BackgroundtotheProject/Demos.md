@@ -14,19 +14,11 @@ Add, edit, or remove any content below for the workshop in question. -->
 {: .no_toc}  
 # Demos
 
- 
+## EXAMPLE 1 
+- <b> <a href="https://mcmasteru365-my.sharepoint.com/:u:/g/personal/zeffiroa_mcmaster_ca/EdiYOVUmAvBFlqPPG6-VutoBTq0ZnJipRvn7ACq0xCUTfQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=4v2vOr" target="_blank" rel="noopener noreferrer">Example 1 Sound File </a> </b>
+- <b> <a href="https://mcmasteru365-my.sharepoint.com/:v:/g/personal/zeffiroa_mcmaster_ca/EaBr65kpimVDp8ZCemtj3A4BHlc4Reby6yLVGlDB4CNWXg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CfqqcK" target="_blank" rel="noopener noreferrer">Example 1 Video </a> </b>
 
-EXAMPLE 1 
-
- 
-
-ADD: EXAMPLE 1 SOUND FILE 
-
-ADD: EXAMPLE 1 VIDEO 
-
- 
-
-Example 1 is the default output in TwoTwo. As documented in the EXAMPLE 1 CODE BOOK, the default for any data set uploaded into TwoTwo is C major with diverse instrumentation, a duration of 4:47, and a tempo (BPM) of 60. Loading the Data Breaches Sonification Data spreadsheet into TwoTone will generate an identical sonification without manipulating any variables.  
+Example 1 is the default output in TwoTwo. As documented in the <a href="https://mcmasteru365-my.sharepoint.com/:w:/g/personal/zeffiroa_mcmaster_ca/EdOhy6cXmbdMhGi7WtZe7w4BL552vLX7CGmWABS_KgtvgA?e=5QXwi7" target="_blank" rel="noopener noreferrer">Example 1 Code Book </a>, the default for any data set uploaded into TwoTwo is C major with diverse instrumentation, a duration of 4:47, and a tempo (BPM) of 60. Loading the <a href="https://mcmasteru365-my.sharepoint.com/:x:/g/personal/zeffiroa_mcmaster_ca/EfoTLxvbOTRIqT2tv2o5AqQBsThm3ih-nrJunoOpsG9Lqw?e=jFJfBs" target="_blank" rel="noopener noreferrer">Data Breaches Sonification Data spreadsheet </a> into TwoTone will generate an identical sonification without manipulating any variables.  
 
  
 
