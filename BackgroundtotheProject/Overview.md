@@ -14,7 +14,7 @@ Add, edit, or remove any content below for the workshop in question. -->
 {: .no_toc}  
 # Overview
 
-Our exploration of data sonification as a method stems from a larger multi-year SSHRC-funded project that traced the emergence of data breaches as a security crisis from 2005 to 2021. We examined 16 data breach cases and analyzed approximately 10-15 primary sources per year using critical discourse analysis (Foucault 1972; 1978) to understand how knowledge about data breaches is produced through how these events are discussed and represented. We share more about our process in the methods section. 
+Our exploration of data sonification as a method stems from a larger multi-year SSHRC-funded project that traced the emergence of data breaches as a security crisis from 2005 to 2021. We examined 16 data breach cases and analyzed approximately 10-15 primary sources per year using critical discourse analysis (Foucault 1972; 1978) to understand how knowledge about data breaches is produced through how these events are discussed and represented. We share more about our process in the methods section.
 
 My interest in the topic stems from a series of breach notifications I received over a few months in 2018. Following several high-profile incidents, the topic congealed into a project that began with a straightforward question: What is a data breach? 
 
