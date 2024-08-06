@@ -27,77 +27,42 @@ We came up with this <a href="https://mcmasteru365-my.sharepoint.com/:w:/g/perso
 - 4	= More criminal intent than the more generalized use of hacker 
 - 5	= Larger nefarious criminality, more organized, identified group or individual 
 
-Company tracks whether a company was named or not. Because all the breaches we studied impacted mid-to-large size organizations, it was important for us to track when and how companies or organizations were named explicitly in sources. We chose to score when a company was named as a 2 knowing this would produce a sound with a higher pitch and render more audible those infrequent instances when an entity was named. 
+<b> Company </b> tracks whether a company was named or not. Because all the breaches we studied impacted mid-to-large size organizations, it was important for us to track when and how companies or organizations were named explicitly in sources. We chose to score when a company was named as a 2 knowing this would produce a sound with a higher pitch and render more audible those infrequent instances when an entity was named.  
 
- 
+<b> Company (named or not) </b>
 
-Company (named or not) 
+- 1 =	Not named (No) 
+- 2	= Named (Yes) 
 
-1 	Not named (No) 
+<b> Breach </b> reflects the intensity of the language and expressions used to describe the data breach event. We observed how in the mid to late aughts, language was more passive and used inconsistently to describe the event. As breach discourses stabilized in later years, we noticed how the language used to describe the breach corresponded to its size or the sensitivity of the data. For large breaches or those involving sensitive data, the language used to describe the breach scored higher on the scale.  
 
-2	Named (Yes) 
+<b> Breach (intensity of the language used to describe the breach) </b> 
+- 0	= Unknown
+- 1	= Passive language (exposed, unprotected, revealed) 
+- 2	= Leaking (accessed directly) 
+- 3	= Breach 
+- 4	= Major breach 
+- 5	= Catastrophe 
 
- 
+<b> Data </b> represents the sensitivity of data compromised in a data breach. We devised the following scale to account for what we observed as the ways sensitivity was observed in the discourse analysis. We wanted to understand how sensitivity corresponded to other variables, like perpetrators and breach. 
 
-Breach reflects the intensity of the language and expressions used to describe the data breach event. We observed how in the mid to late aughts, language was more passive and used inconsistently to describe the event. As breach discourses stabilized in later years, we noticed how the language used to describe the breach corresponded to its size or the sensitivity of the data. For large breaches or those involving sensitive data, the language used to describe the breach scored higher on the scale.  
+<b> Data (sensitivity of data) </b> 
+- 0	= Unknown 
+- 1	= Public already 
+- 2	= Sensitive
+- 3	= Very sensitive 
 
- 
+<b> Risk </b> considers the language used to describe the risk to those impacted by the data breach, such as consumers who accounts were compromised. We consistently documented instances when the language used to describe the risk was intense even when the risk was still yet unknown, and in these instances, we scored these findings in the mid-range to account for the intensity of the language and expressions used. 
 
-Breach (intensity of the language used to describe the breach) 
+<b> Risk (The specific language used to describe the risk) </b>
+- 0 =	Unknown 
+- 1 =	Low Risk (describes a possible or projected risk; the data is already publicly available) 
+- 2	= Medium risk (a known risk is identified; language is intense, but the risk is unknown) 
+- 3	= High risk (immediate concern and impact; a concrete risk is named) 
 
-0	Unknown 
+<b> Risk to company </b> tracks whether a risk to the company was articulated or not. We felt this was important to discern in relation to other company data and the broader framing of the data breach as a security crisis. Similarly to the company named variable, we chose to score when the risk to a company was articulated as a 2 to produce a sound with a higher pitch and render more audible those instances when risk was ascribed to an organization. 
 
-1	Passive language (exposed, unprotected, revealed) 
-
-2	Leaking (accessed directly) 
-
-3	Breach 
-
-4	Major breach 
-
-5	Catastrophe 
-
- 
-
-Data represents the sensitivity of data compromised in a data breach. We devised the following scale to account for what we observed as the ways sensitivity was observed in the discourse analysis. We wanted to understand how sensitivity corresponded to other variables, like perpetrators and breach. 
-
- 
-
-Data (sensitivity of data) 
-
-0	Unknown 
-
-1	Public already 
-
-2	Sensitive 
-
-3	Very sensitive 
-
- 
-
-Risk considers the language used to describe the risk to those impacted by the data breach, such as consumers who accounts were compromised. We consistently documented instances when the language used to describe the risk was intense even when the risk was still yet unknown, and in these instances, we scored these findings in the mid-range to account for the intensity of the language and expressions used. 
-
- 
-
-Risk (The specific language used to describe the risk) 
-
-0	Unknown 
-
-1	Low Risk (describes a possible or projected risk; the data is already publicly available) 
-
-2	Medium risk (a known risk is identified; language is intense, but the risk is unknown) 
-
-3	High risk (immediate concern and impact; a concrete risk is named) 
-
- 
-
- 
-
-Risk to company tracks whether a risk to the company was articulated or not. We felt this was important to discern in relation to other company data and the broader framing of the data breach as a security crisis. Similarly to the company named variable, we chose to score when the risk to a company was articulated as a 2 to produce a sound with a higher pitch and render more audible those instances when risk was ascribed to an organization. 
-
- 
-
-Risk to Company 
+<b> Risk to Company </b>
 
 1	No 
 
