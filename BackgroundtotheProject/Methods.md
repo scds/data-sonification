@@ -15,4 +15,4 @@ Add, edit, or remove any content below for the workshop in question. -->
 
 # Methods
 
-Click to learn more about our methodology for this project.
+
