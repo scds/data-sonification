@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Parting Thoughts
-nav_order: 4
+nav_order: 10
 parent: Background
 ---
 
