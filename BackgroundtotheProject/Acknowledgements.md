@@ -14,6 +14,6 @@ Add, edit, or remove any content below for the workshop in question. -->
 {: .no_toc}  
 # Acknowledgements 
 
-INSERT SSHRC LOGO 
+<img src="../assets/img/sshrc-logo.jpg" alt="SSSHRC Logo" width="100%">
 
 This module draws on research supported by the Social Sciences and Humanities Research Council. 
