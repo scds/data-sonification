@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How to Cite
-nav_order: 9
+nav_order: 15
 parent: Background
 ---
 
