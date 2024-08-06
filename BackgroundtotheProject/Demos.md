@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Demos
-nav_order: 2
-parent: Methods
-grand_parent: Background
+nav_order: 9
+parent: Background
 ---
 
 <!-- 
