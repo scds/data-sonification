@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Data Conversion
-nav_order: 2
-parent: Methods
-grand_parent: Background
+nav_order: 8
+parent: Background
 ---
 
 <!-- 
