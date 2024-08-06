@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Scoring Framework
-nav_order: 2
-parent: Methods
-grand_parent: Background
+nav_order: 7
+parent: Background
 ---
 
 <!-- 
