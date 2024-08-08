@@ -20,95 +20,50 @@ Add, edit, or remove any content below for the workshop in question. -->
 
 Example 1 is the default output in TwoTwo. As documented in the <a href="https://mcmasteru365-my.sharepoint.com/:w:/g/personal/zeffiroa_mcmaster_ca/EdOhy6cXmbdMhGi7WtZe7w4BL552vLX7CGmWABS_KgtvgA?e=5QXwi7" target="_blank" rel="noopener noreferrer">Example 1 Code Book </a>, the default for any data set uploaded into TwoTwo is C major with diverse instrumentation, a duration of 4:47, and a tempo (BPM) of 60. Loading the <a href="https://mcmasteru365-my.sharepoint.com/:x:/g/personal/zeffiroa_mcmaster_ca/EfoTLxvbOTRIqT2tv2o5AqQBsThm3ih-nrJunoOpsG9Lqw?e=jFJfBs" target="_blank" rel="noopener noreferrer">Data Breaches Sonification Data spreadsheet </a> into TwoTone will generate an identical sonification without manipulating any variables.  
 
- 
-
-A significant amount of time was spent playing around with TwoTone. The program's constraints can feel limiting initially, especially with the finite selection of instruments. 
-
-A prime frustration was that early experiments produced very conventional musical compositions. 
-
- 
+A significant amount of time was spent playing around with TwoTone. The program's constraints can feel limiting initially, especially with the finite selection of instruments. A prime frustration was that early experiments produced very conventional musical compositions. 
 
 The examples below were created while I was becoming familiar with TwoTone. Listening even to snippets of each will make audible the ways I adapted to the constraints of the application. 
 
- 
-
-ADD: TEST 1 
-
+<b> <a href="https://mcmasteru365-my.sharepoint.com/:u:/g/personal/zeffiroa_mcmaster_ca/EQVd-T3PlpNEkHvsRL5IXu0BsENyoFct2r6_SDzmnmOzcg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RbEuXc" target="_blank" rel="noopener noreferrer"> Test 1 </a> </b>  
 Out of the four, this is by far the most conventional composition. It is created this in C major and used diverse instruments to represent each variable. 
 
- 
-
-ADD: TEST 2 
-
+<b> <a href="https://mcmasteru365-my.sharepoint.com/:u:/g/personal/zeffiroa_mcmaster_ca/EaRL9GTwCnJKg8Q1J_vL-0EBWPxBDTMCcGk7aFYmjdv9QA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=sWVEf0" target="_blank" rel="noopener noreferrer"> Test 2 </a> </b>  
 This example charts the experimentation with different tempos and major and minor keys, with an emphasis on experimenting with the different ways of manipulating the instruments and observing which of the instruments could produce intense sounds. 
 
- 
-
-ADD: TEST 3 
-
+<b> <a href="https://mcmasteru365-my.sharepoint.com/:u:/g/personal/zeffiroa_mcmaster_ca/EWY94WrukgpMi0WWnN9HThgBjHlFTLoD0SUJnSo4qHGorg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XLi8fB" target="_blank" rel="noopener noreferrer"> Test 3 </a> </b>  
 Example three was a turning point in the process. This version is in D minor and there is significant experimentation happening with distorting the instruments. It also uses double bass on core variables like breach and perpetrators, which I transported to example 2. 
 
- 
-
-ADD: TEST 4 
-
+<b> <a href="https://mcmasteru365-my.sharepoint.com/:u:/g/personal/zeffiroa_mcmaster_ca/EZdewFgFp-ZPjTX6D-vqrgUBDenw9rpSUC8R_pb3LjH5Mw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=an8TEA" target="_blank" rel="noopener noreferrer"> Test 4 </a> </b>  
 This example documents the full extent of attempting to stretch the limits of the instruments in TwoTone. To produce the distortion and droning sound, the track tempo was experimented with. The harp and trumpet were set to a tempo of 12x. These were important discoveries imported into examples 2 and 3. 
-
- 
 
 It was through experimenting with TwoTone that I learned how to work within the constraints of the application. Notably, understanding the limitations of the application led to important insights for how to manipulate the instruments to produce different sounds to map the data onto, the outcomes of which are discussed in examples 2 and 3.  
 
- 
-
 Further, experimentation enabled me to develop and refine a process. For example, very early on, I was not devising a code book for the sonification. However, it became apparent that the process was more important than the output, and rather than producing only one sonification that could encompass the project, it was appropriate to the experimentation to create a few examples to demonstrate the possibilities for sound data.  
 
- 
-
-EXAMPLE 2 
-
- 
-
+## EXAMPLE 2
 After months of experimenting with the data set in TwoTone, I decided the next step was to choose a key to work within. After careful consideration, I chose D minor. The notes in the D minor scale are D, E, F, G, A, Bb, C, and D. Traditionally, D minor is used to express melancholy, introspection, anxiety, uncertainty, despondence and similar states and emotional intensities.  
-
- 
 
 Before the 20th century, associating musical keys with specific emotional or qualitative characteristics was a common practice. This understanding was part of the shared cultural experience among those who created, performed, and listened to music. For instance, when composers like Mozart, Beethoven, or Schubert wrote a piece in Ab major, known as the ‘key of the grave’, it was expected that many in their audience would recognize this association as well (Steblin, 1983).  
 
- 
-
 The tonality of D minor in classical music is frequently linked with somber, melancholic, or even dark “humors” (Steblin, 1983). This can be used to convey a sense of tragedy or sorrow, while in rock and pop music, D minor has been used to create emotional intensity. The Beatles’ Come Together (1969), Phil Collins’ In the Air Tonight (1981), New Order’s Blue Monday (1983), Wham!’s Careless Whisper (1984), Sade’s Smooth Operator (1984), Beastie Boys’ Root Down (1994), Radiohead’s I Might Be Wrong (2001), Beyonce’s Crazy in Love (2003), and Drake’s Hotline Bling (2015) are all in the key of D minor. 
-
- 
 
 In the context of sonifying data, this historical practice of key association can be leveraged to enhance the emotional and qualitative impact of the auditory representation. By carefully selecting musical keys that align with the desired emotional response, data sonification can become a more powerful and intuitive tool for conveying complex information. In this example, D minor was an appropriate choice for the data set because it could augment and potentially distort the themes and observations to emerge from the discourse analysis. We observed many tensions in how data breaches were framed as crises and concluded that D minor could offer a heightened perception of the tensions, intensities and harmonies in the dataset. 
 
- 
-
 As a first step, I considered which data would be assigned to which key and sound/instrument and why, how to represent linear and nonlinear data, and whether to stay within or defy certain conventions. I decided immediately to remove the ‘Year’ and ‘Date’ fields after the dataset was imported into TwoTone as I was not particularly interested in having this temporal data represented in the sonification least in part because the data was already sorted chronologically to chart changes over time. Removing these two fields allowed me to focus on the core narratives and themes that emerged through the discourse analysis.  
 
- 
-
-With example 2, I chose a limited number of instruments to work with, specifically the trumpet, harp and double bass. Based on my previous experiments as documented in examples 1 to 4, I wanted to continue to manipulate some of the instruments to produce distortions. For example, setting the track tempo to 12x for the trumpet and harp resulted in a droning sound. I isolated the ‘perpetrators’ and ‘breach’ variables as the core narratives. Both are represented as a double base in D minor with a 2-octave range. The primary difference is that the perpetrators track has a tempo of 2x and the breach track has a tempo of 3x to produce variation and tension between the two. Together, the tracks produce the following: ADD EXAMPLE 2 CORE MELODIES 
-
- 
+With example 2, I chose a limited number of instruments to work with, specifically the trumpet, harp and double bass. Based on my previous experiments as documented in examples 1 to 4, I wanted to continue to manipulate some of the instruments to produce distortions. For example, setting the track tempo to 12x for the trumpet and harp resulted in a droning sound. I isolated the ‘perpetrators’ and ‘breach’ variables as the core narratives. Both are represented as a double base in D minor with a 2-octave range. The primary difference is that the perpetrators track has a tempo of 2x and the breach track has a tempo of 3x to produce variation and tension between the two. Together, the tracks produce the following: <a href="https://mcmasteru365-my.sharepoint.com/:u:/g/personal/zeffiroa_mcmaster_ca/Ecd3Ge07PppOpRXXLiqLvlYBzDVOTxlOHYpvU6uY8nF8ew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=kcyQ2T" target="_blank" rel="noopener noreferrer"> EXAMPLE 2 CORE MELODIES </a>
 
 ‘Perpetrators’ and ‘breach’ anchored the sonification and produced a melody to assist with mapping the other variables to an instrument, key, scale, octave and tempo. I chose from the outset not to use arpeggios to diminish ornamentation. These were some of the initial decisions made to assist with structuring the sonification.  
 
- 
-
 Below, is a detailed explanation of the reasoning behind the choices made for specific tracks. Following this section is the complete sonification 
 
- 
+<b> <a href="https://mcmasteru365-my.sharepoint.com/:v:/g/personal/zeffiroa_mcmaster_ca/EZG8GcMX_hRFjMEVuj_WlwUBf2oPfCVRbZMngsNXR6IGRQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=nTUgmD" target="_blank" rel="noopener noreferrer"> EXAMPLE 2.1 SIZE </a> </b>
 
-ADD EXAMPLE 2.1 SIZE 
+The trumpet is at 12x tempo to represent <b> size</b>. At 12x, the trumpet produces a persistent low droning and changes to a higher pitch to represent large data breaches without the sound being too overbearing. 
 
-The trumpet is at 12x tempo to represent size. At 12x, the trumpet produces a persistent low droning and changes to a higher pitch to represent large data breaches without the sound being too overbearing. 
+<b> <a href="https://mcmasteru365-my.sharepoint.com/:v:/g/personal/zeffiroa_mcmaster_ca/EZ1hDzZ_NGJIuTtPk4iDXNIBUkSZQ8RZYZBMN8uIuzk1aA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CLadjv" target="_blank" rel="noopener noreferrer"> EXAMPLE 2.2 PERPETRATORS </a> </b>
 
- 
-
-ADD EXAMPLE 2.2 PERPETRATORS 
-
-Because the perpetrators and breach were the anchor narratives of the sonification, the double bass was chosen to represent these. Along with the drums, the bass is typically the instrument that provides the backbone to a composition. However, here, this relatively quiet instrument was applied to amplify a melody instead. The track uses 2 octaves to augment the pitch or the range of ways in which language is used to describe perpetrators without it overly dominating in the sonification. 
+Because the <b> perpetrators </b> and breach were the anchor narratives of the sonification, the double bass was chosen to represent these. Along with the drums, the bass is typically the instrument that provides the backbone to a composition. However, here, this relatively quiet instrument was applied to amplify a melody instead. The track uses 2 octaves to augment the pitch or the range of ways in which language is used to describe perpetrators without it overly dominating in the sonification. 
 
  
 
