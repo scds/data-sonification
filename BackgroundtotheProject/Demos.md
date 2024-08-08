@@ -102,58 +102,39 @@ I wanted to experiment with distorting the key melodies to consider how the fram
 
 Below, is a detailed explanation of the reasoning behind the choices made for specific tracks. Following this section is the complete sonification. 
 
-ADD EXAMPLE 3.1 SIZE 
+<b> <a href="https://mcmasteru365-my.sharepoint.com/:v:/g/personal/zeffiroa_mcmaster_ca/Ea2X7XHdWGxFtZUdAuNtlr0BQncUCAUQ9D87KUxUqXeh3w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=TPC7EJ" target="_blank" rel="noopener noreferrer"> EXAMPLE 3.1 SIZE </a> </b>
 
-In this version, size is represented by the double bass at 12x tempo. At this speed, the double base produces a persistent drone with some subtle changes in pitch with the most distinctive changes occurring when large data breaches are sonified. It is set at 1 octave so that the changes in size are noticeable yet subtle. In conjunction with the harp used for company named and company risk, a lazer-like sound is produced. 
+In this version, <b> size </b> is represented by the double bass at 12x tempo. At this speed, the double base produces a persistent drone with some subtle changes in pitch with the most distinctive changes occurring when large data breaches are sonified. It is set at 1 octave so that the changes in size are noticeable yet subtle. In conjunction with the harp used for company named and company risk, a lazer-like sound is produced. 
 
+<b> <a href="https://mcmasteru365-my.sharepoint.com/:v:/g/personal/zeffiroa_mcmaster_ca/EcGJsbQM8JBEvNXif9vp_RQBzvlZoRUZj8nDyTR3B3Z8Ow?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Qph6JY" target="_blank" rel="noopener noreferrer"> EXAMPLE 3.2 PERPETRATORS </a> </b>
+
+Example 2 represented <b> perpetrators </b> with the bass guitar at a 2x tempo. In this example, the trumpet at a 12x tempo is used, producing a layered and rougher sound, which picks up the fluctuations in the intensity of language used to describe individuals and groups held accountable for data breaches. Along with breaches and risk, this track forms the anchor melody of the sonification. 
+
+<b> <a href="https://mcmasteru365-my.sharepoint.com/:v:/g/personal/zeffiroa_mcmaster_ca/ET7LE8QkLvxBs80I-Efzr-sB8ZQ5OqSop8Sw1Eg5vE6lxQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=6QMfH4" target="_blank" rel="noopener noreferrer"> EXAMPLE 3.3 COMPANY NAMED </a> </b>
+
+The harp at 12x tempo represents the variable <b> company named</b>. At this tempo, the harp produces a machine-like sound. I chose to work within a 1 octave range to represent the binary coding (yes or no) we used in the scoring framework. The constant droning in the background sonifies the rarity of companies being held responsible. In this version, it elicited a meditativeness that I did not pick out in example 2.3. 
+
+<b> <a href="https://mcmasteru365-my.sharepoint.com/:v:/g/personal/zeffiroa_mcmaster_ca/EfpMBj46YX1Nv2UfbNiw5RwBihzfGU03AUY3Hh9fdS7jIg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=eyVdFK" target="_blank" rel="noopener noreferrer"> EXAMPLE 3.4 BREACH </a> </b>
+
+In example 2, the <b> breach </b> variable was represented by the bass guitar at 3x tempo. Because it is one of three variables with perpetrators and risk constituting the core melody, breach is also represented by the trumpet in D minor like perpetrators but at 6x instead of 12x to stress more of the melody and to differentiate slightly from the perpetrators track and allow it to stand out, which is appropriate given the project’s focus on data breaches. 
+
+<b> <a href="https://mcmasteru365-my.sharepoint.com/:v:/g/personal/zeffiroa_mcmaster_ca/EXMQ5KmkG0lLpQ4zUgPtxIkBztoN4G7FgqUM4al3BrYaIQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=LfEJZS" target="_blank" rel="noopener noreferrer"> EXAMPLE 3.5 DATA </a> </b>
+
+<b> Data </b> is represented as a double bass in A minor with a 1 octave range and 2x tempo. These presets were chosen to produce the backbone to the sonification. The track is marked by noticeable sections of the same pitch with discernable variations. It was important to keep the data variable as the anchor to the sonification as a way of reinforcing how so many facets of contemporary life are characterized by, and through, data. 
+
+<b> <a href="https://mcmasteru365-my.sharepoint.com/:v:/g/personal/zeffiroa_mcmaster_ca/EU_-1GHnePZNlrsWf3xcn3oBsybeuMxobtLSkCrr4aUzDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=g9fYbc" target="_blank" rel="noopener noreferrer"> EXAMPLE 3.6 RISK </a> </b>
+
+<b> Risk </b> is still represented as a trumpet at 12x tempo in E minor key. In this version, risk is paired with perpetrators and breach to observe how tensions and resolves compare across the three narratives. It is set at 1 octave so as not to dominate. Risk was paired with perpetrators and breach to listen to it not as exceptional but rather as new norm stemming from datafication. What do these variables sound like together? 
+
+<b> <a href="https://mcmasteru365-my.sharepoint.com/:v:/g/personal/zeffiroa_mcmaster_ca/EaOc4wOZap9AtWLWX2JiElABXT2a7CvIh3TcUlh-7zVjWg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=zL2ssk" target="_blank" rel="noopener noreferrer"> EXAMPLE 3.7 COMPANY RISK </a> </b>
+
+<b> Company risk </b> is represented again by a harp at 12x tempo in F minor, but it is set at an octave higher than example 2.7 to augment the droning. In turn, the few data points representing when a risk to the company was noted stand out. 
+
+### Example 3 Sonification 
+- <a href="https://mcmasteru365-my.sharepoint.com/:u:/g/personal/zeffiroa_mcmaster_ca/EZRWVCWdGvJIpxqzEeCD-eEBgRSts3fDkr6AzNTX5AHypg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=MN9JIu" target="_blank" rel="noopener noreferrer"> Example 3 Sound File </a>
+- <a href="https://mcmasteru365-my.sharepoint.com/:v:/g/personal/zeffiroa_mcmaster_ca/EZY3t2AYmeVJnrBapOq1LWgB1gvc3otUSMt-NNrgrJeLwg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=m0aJyE" target="_blank" rel="noopener noreferrer"> Example 3 Video File </a>
+- <a href="https://mcmasteru365-my.sharepoint.com/:w:/g/personal/zeffiroa_mcmaster_ca/EXPpktMWm7pKhi15rDd67vcBf1fWWFejx09JTDm8eF2-eQ?e=JrhmQd" target="_blank" rel="noopener noreferrer"> Example 3 Code Book </a>
  
-
-ADD EXAMPLE 3.2 PERPETRATORS 
-
-Example 2 represented perpetrators with the bass guitar at a 2x tempo. In this example, the trumpet at a 12x tempo is used, producing a layered and rougher sound, which picks up the fluctuations in the intensity of language used to describe individuals and groups held accountable for data breaches. Along with breaches and risk, this track forms the anchor melody of the sonification. 
-
- 
-
-ADD EXAMPLE 3.3 COMPANY NAMED 
-
-The harp at 12x tempo represents the variable company named. At this tempo, the harp produces a machine-like sound. I chose to work within a 1 octave range to represent the binary coding (yes or no) we used in the scoring framework. The constant droning in the background sonifies the rarity of companies being held responsible. In this version, it elicited a meditativeness that I did not pick out in example 2.3. 
-
- 
-
-ADD EXAMPLE 3.4 BREACH 
-
-In example 2, the breach variable was represented by the bass guitar at 3x tempo. Because it is one of three variables with perpetrators and risk constituting the core melody, breach is also represented by the trumpet in D minor like perpetrators but at 6x instead of 12x to stress more of the melody and to differentiate slightly from the perpetrators track and allow it to stand out, which is appropriate given the project’s focus on data breaches. 
-
- 
-
-ADD EXAMPLE 3.5 DATA 
-
-Data is represented as a double bass in A minor with a 1 octave range and 2x tempo. These presets were chosen to produce the backbone to the sonification. The track is marked by noticeable sections of the same pitch with discernable variations. It was important to keep the data variable as the anchor to the sonification as a way of reinforcing how so many facets of contemporary life are characterized by, and through, data. 
-
- 
-
-ADD EXAMPLE 3.6 RISK 
-
-Risk is still represented as a trumpet at 12x tempo in E minor key. In this version, risk is paired with perpetrators and breach to observe how tensions and resolves compare across the three narratives. It is set at 1 octave so as not to dominate. Risk was paired with perpetrators and breach to listen to it not as exceptional but rather as new norm stemming from datafication. What do these variables sound like together? 
-
- 
-
-ADD EXAMPLE 3.7 COMPANY RISK 
-
-Company risk is represented again by a harp at 12x tempo in F minor, but it is set at an octave higher than example 2.7 to augment the droning. In turn, the few data points representing when a risk to the company was noted stand out. 
-
- 
-
-Example 3 Sonification 
-
-ADD EXAMPLE 3 SOUND FILE 
-
-ADD EXAMPLE 3 VIDEO FILE 
-
-ADD EXAMPLE 2 CODE BOOK 
- 
-
 This example features a foreboding, march-like rhythm reminiscent of Bernard Hermann's film soundtracks. The rhythmic foundation emulates archetypal compositional techniques that convey tension, particularly through pizzicato on cello or bass (Karlin et al., 2004, p. 94). Iconic soundtracks like “Psycho” (1960) and “Jaws” (1975), for example, used this technique innovatively. The surrounding instrumentation fills the sonic space around this rhythmic foundation, as different voices emerge unpredictably to create a shifting and uneasy soundscape; listeners may here dissonant 'trumpet' voices that disrupt the drone-like melodic lines, highlighting the track's use of contrapuntal and polytonal qualities (Karlin et al., 2004, p. 233). These elements aim to add layers of complexity and dimensionality that is distinct to that afforded by aural comprehension and which visual data often omits. 
  
-
 Our interpretation suggests this example emphasizes "breach fatigue," with the sounds described above symbolizing the relentless, organized nature of cyber threats. The march-like rhythm reflects the systematic approach of cyber attackers, while dissonant interruptions and clashing polytonal elements represent the chaos and unpredictability of breaches, as well as the varied and sometimes disjointed responses to them. At a higher level, this sonification may evoke a heightened sense of both urgency and murkiness, mirroring the multifaceted and complex nature of cybersecurity discussions. 
