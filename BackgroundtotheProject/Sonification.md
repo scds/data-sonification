@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Sonification
-nav_order: 6
-parent: Background
+parent: Methods
+grand_parent: Background
+nav_order: 3
 ---
 
 <!-- 
