@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Critical Discourse Analysis
-nav_order: 5
-parent: Background
+parent: Methods
+grand_parent: Background
+nav_order: 2
 ---
 
 <!-- 
