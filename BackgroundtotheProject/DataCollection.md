@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Data Collection
-nav_order: 4
 parent: Methods
-grandparent: Background
+grand_parent: Background
+nav_order: 1
+
 
 ---
 
