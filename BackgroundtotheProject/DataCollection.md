@@ -2,7 +2,9 @@
 layout: default
 title: Data Collection
 nav_order: 4
-parent: Background
+parent: Methods
+grandparent: Background
+
 ---
 
 {: .no_toc}  
