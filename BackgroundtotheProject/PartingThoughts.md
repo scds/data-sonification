@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Parting Thoughts
-nav_order: 10
-parent: Background
+parent: Conclusion
+grand_parent: Background
+nav_order: 1
 ---
 
 <!-- 
