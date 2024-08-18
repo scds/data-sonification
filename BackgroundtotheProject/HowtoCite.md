@@ -14,4 +14,4 @@ Add, edit, or remove any content below for the workshop in question. -->
 
 {: .no_toc}  
 # How To Cite 
-Zeffiro, A., McEwan, S., Waring, K. (2024). Sonification as Critical Method. URL 
+Zeffiro, A., McEwan, S., Waring, K. (2024). Sonification as Critical Method. https://learn.scds.ca/data-sonification/
