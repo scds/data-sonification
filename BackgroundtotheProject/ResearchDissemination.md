@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Research Dissemination
-nav_order: 13
-parent: Background
+parent: Conclusion
+grand_parent: Background
+nav_order: 4
 ---
 
 <!-- 
