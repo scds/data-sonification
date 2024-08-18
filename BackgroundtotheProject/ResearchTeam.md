@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Research Team
-nav_order: 12
-parent: Background
+parent: Conclusion
+grand_parent: Background
+nav_order: 3
 ---
 
 <!-- 
