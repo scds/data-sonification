@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Acknowledgements
-nav_order: 14
-parent: Background
+parent: Conclusion
+grand_parent: Background
+nav_order: 5
 ---
 
 <!-- 
