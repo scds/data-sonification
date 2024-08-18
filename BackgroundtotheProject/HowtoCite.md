@@ -1,8 +1,9 @@
 ---
 layout: default
 title: How to Cite
-nav_order: 15
-parent: Background
+parent: Conclusion
+grand_parent: Background
+nav_order: 6
 ---
 
 <!-- 
