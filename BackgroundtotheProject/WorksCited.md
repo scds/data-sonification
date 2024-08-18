@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Works Cited
-nav_order: 11
-parent: Background
+parent: Conclusion
+grand_parent: Background
+nav_order: 2
 ---
 
 <!-- 
