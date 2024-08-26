@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sonification
+title: Data Conversion
 parent: Methods
 grand_parent: Background
 nav_order: 3
@@ -14,7 +14,7 @@ Add, edit, or remove any content below for the workshop in question. -->
 
 {: .no_toc}  
 
-# Sonification 
+# Data Conversion
 
 To sonify the data derived from the discourse analysis, we had to convert the words into numbers. To begin the process, we returned to the Excel spreadsheet where the research team was tracking the framing of data breaches as crises through the language and expressions used to describe the victims, perpetrators, the breach, and the company or organized implicated in the incident. To do this we assessed each category separately to devise a scoring framework.  
 
