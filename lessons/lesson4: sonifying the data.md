@@ -48,8 +48,6 @@ Data Import: The software allows easy uploading and navigation of datasets, disp
 
 Initial Setup: Begin by selecting a range of data for sonification. This choice influences the narrative and impact of the sonification. Consider the story you want the data to tell and the aspects you wish to emphasize or omit. 
 
-## Decide on Sonification Methods:  
-
 ## Choosing Parameters 
 
 <img src="../assets/img/ChoosingParamaters.png" alt="Screeshot of Two-Tone" width="100%">
