@@ -17,7 +17,7 @@ parent: Lessons
 - Explore various platforms for sharing sonifications, ensuring they are accessible to a broad audience including academicians and the public. 
 
 
-## Part 1: The Scoring Framework 
+## The Scoring Framework 
 
 When developing a scoring framework, it may be helpful to think about your sonification as a story. Sonification is one way you can <a href="https://scds.github.io/data-driven-stories/" target="_blank" rel="noopener noreferrer">narrativize your data</a> to a wider audience, as well as create an opportunity for individuals from different backgrounds or with skill-sets other than your own to engage with your research.  
 
