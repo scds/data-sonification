@@ -2,7 +2,7 @@
 layout: default
 title: Sonification- A Method of Inquiry
 nav_order: 2
-parent: Background
+parent: Case Study
 ---
 
 <!-- 

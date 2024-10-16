@@ -2,7 +2,7 @@
 layout: default
 title: Sonification
 parent: Methods
-grand_parent: Background
+grand_parent: Case Study
 nav_order: 4
 ---
 

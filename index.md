@@ -12,7 +12,7 @@ This will be the home page of your module. It should give a small introduction t
 Add, edit, or remove any content below for the workshop in question. -->
 
 <!-- Title slide image. Replace img src with your own, or comment this out. -->
-<img src="assets/img/CoverTitleSlide.jpg" alt="Workshop Title Slide" width="100%">
+<img src="assets/img/titleSlide.jpg" alt="Workshop Title Slide" width="100%">
 
 <!-- Main header -->
 # Getting started with Sonifying Data.

@@ -2,7 +2,7 @@
 layout: default
 title: Works Cited
 parent: Conclusion
-grand_parent: Background
+grand_parent: Case Study
 nav_order: 2
 ---
 
@@ -19,7 +19,7 @@ Ashenden, D. (2021). The future human and behavioural challenges of cybersecurit
 
 Cap, P. (2017). Threats in cyberspace. <em> The language of fear: Communicating threat in public discourse. </em> (pp. 53-66). London: Palgrave Macmillan 
 
-Cvetkovich, A. (2003). <em> An archive of feelings: trauma, sexuality, and lesbian public cultures. </em> Duke University Press.   
+Cvetkovich, A. (2003). <em> An archive of feelings: trauma, sexuality, and lesbian public cultures. </em> Duke University Press.  
 
 Couldry, N. (2004). Theorising media as practice. <em> Social Semiotics, </em> 14(2), 115–132. https://doi.org/10.1080/1035033042000238295 
 
@@ -51,7 +51,7 @@ McKinney, C. and Mulvin, D. (2019). Bugs: Rethinking the history of computing. <
 
 Nissembaum, H. (2005). When computer security meets national security. <em> Ethics in Information Technology </em> (7), 61-73. 
 
-Parent, M. (2019 December 4). Growth in data breaches shows need for government regulations. <em> The Conversation. </em> https://theconversation.com/growth-in-data-breaches-shows-need-for-government-regulations-127600  
+Parent, M. (2019 December 4). Growth in data breaches shows need for government regulations. <em> The Conversation. </em> https://theconversation.com/growth-in-data-breaches-shows-need-for-government-regulations-127600 
 
 Parrika, J. (2005). Digital Monsters, binary aliens—computer viruses, capitalism and the flow of information. <em> Fibreculture Journal </em> 4. https://four.fibreculturejournal.org/fcj-019-digital-monsters-binary-aliens-%E2%80%93-computer-viruses-capitalism-and-the-flow-of-information/  
 

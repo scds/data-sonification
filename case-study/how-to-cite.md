@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Methods
-nav_order: 3
-parent: Background
-has_children: true
+title: How to Cite
+parent: Conclusion
+grand_parent: Case Study
+nav_order: 6
 ---
 
 <!-- 
@@ -13,7 +13,5 @@ Add, edit, or remove any content below for the workshop in question. -->
 <!-- Putting a {: .no_toc} above a header removes it from the table of contents -->
 
 {: .no_toc}  
-
-# Methods
-
-
+# How To Cite 
+Zeffiro, A., McEwan, S., Waring, K. (2024). Sonification as Critical Method. https://learn.scds.ca/data-sonification/

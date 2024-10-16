@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lesson 3- Narrativizing the Data
+title: Lesson 3 - Narrativizing the Data
 nav_order: 4
 parent: Lessons
 

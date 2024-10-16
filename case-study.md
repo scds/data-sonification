@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Background
-nav_order: 4
+title: Case Study
+nav_order: 5
 has_children: true
 blank: true
 ---
