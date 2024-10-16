@@ -62,7 +62,8 @@ In order to parse out information about the language use and public coverage of 
 
 Basic steps involved: 
 
-<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/c9885dd2-c912-4f62-b5df-1a3f51275c6e/public?autoplay=false&automute=false"></iframe> 
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/c9885dd2-c912-4f62-b5df-1a3f51275c6e/public"></iframe>
+[View original here.](https://echo360.ca/media/c9885dd2-c912-4f62-b5df-1a3f51275c6e/public)
 
 TwoTone lets you have multiple tracks, each representing different facets of your data. 
 
@@ -83,15 +84,18 @@ Midi: TwoTone gives you the option of using the “Midi” feature to expand you
 Listen: Hit the "Play" button to hear your data come alive. 
 
 ## Fine-Tuning Your Creation 
-
-<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/8d893995-722d-45b6-bf6e-9358a9802069/public?autoplay=false&automute=false"></iframe> 
+ 
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/b57fb946-39f5-4c82-80fa-a357fcad424c/public"></iframe>
+[View original here.](https://echo360.ca/media/b57fb946-39f5-4c82-80fa-a357fcad424c/public)
 
 Set the Pace: Control the duration, tempo, and even the time each row in your data gets with the "Adjust Duration" feature. 
 
 Filtering: You can filter tracks to play sounds based on specific data values. This enabled intricate layering of sounds and rhythms.
 
 ## Saving and Sharing 
-<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/b57fb946-39f5-4c82-80fa-a357fcad424c/public?autoplay=false&automute=false"></iframe> 
+
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/b57fb946-39f5-4c82-80fa-a357fcad424c/public"></iframe>
+[View original here.](https://echo360.ca/media/b57fb946-39f5-4c82-80fa-a357fcad424c/public)
 
 Export: TwoTone lets you save your project as an MP3 or Waveform (PCM). We found different bit rate options for MP3, ranging from 64 kbps to 320 kbps. 
 
