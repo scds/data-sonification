@@ -9,7 +9,7 @@ If your workshop has an introduction sequence, whether it be history, "Why shoul
 Add, edit, or remove any content below for the workshop in question. 
 -->
 
-## What is Sonification?
+# What is Sonification?
 
 Data sonification is the process of translating data patterns into sound patterns. Historically, data sonification has roots in various fields, including meteorology, where it was used to interpret weather data, and in astronomy, for analyzing signals from space. The evolution of this technique reflects a growing interest in alternative data representation methods, especially in fields where visual representation is limited or less effective. 
 
