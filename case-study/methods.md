@@ -4,6 +4,7 @@ title: Methods
 nav_order: 3
 parent: Case Study
 has_children: true
+blank: true
 ---
 
 <!-- 

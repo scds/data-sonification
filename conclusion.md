@@ -28,7 +28,7 @@ Here are some resources, communities, forums, and groups where enthusiasts can s
 
 ### Sonification.de: 
 - This website offers resources, tools, and examples of sonification projects. It's a great place to start for beginners and also for those looking to see practical applications of sonification. 
-- Website: <a href="http://sonification.de/" target="_blank" rel="noopener noreferrer">Sonification.dee</a> 
+- Website: <a href="http://sonification.de/" target="_blank" rel="noopener noreferrer">Sonification.de</a> 
 
 ### The Data Sonification Archive: 
 - This archive is a collection of data sonification work that can serve as inspiration and a learning resource. 
@@ -51,7 +51,7 @@ Here are some resources, communities, forums, and groups where enthusiasts can s
 - Website: <a href="https://www.researchcatalogue.net/view/558606/558607" target="_blank" rel="noopener noreferrer">Journal of Sonic Studies</a> 
 
 ## Related Workshops
-- Check out the two data sonification workshops offered by the Sherman Centre: <a href="https://scds.ca/product/sonification-communicating-data-with-sound/" target="_blank" rel="noopener noreferrer">"Sonification: Communicating Data with Sound"</a> and <a href="https://scds.ca/product/sonification-sounding-and-listening-as-critical-practice/" target="_blank" rel="noopener noreferrer">"Sonification: Sounding and Listening as Critical Practice."</a> Recordings of both can be accessed on the Sherman Centre website.
+- Check out the two data sonification workshops offered by the Sherman Centre: <a href="https://learn.scds.ca/dmds23-24/sonification1.html" target="_blank" rel="noopener noreferrer">"Sonification: Sounding and Listening as Critical Practice"</a> and <a href="https://learn.scds.ca/dmds23-24/sonification2.html" target="_blank" rel="noopener noreferrer">"Sonification: Communicating Data with Sound."</a> Recordings of both can be accessed on the Sherman Centre website.
 
 Remember, the field of data sonification is continually evolving, so staying engaged with these communities and resources can be incredibly beneficial for your ongoing learning and development. Happy sonifying!!  
 

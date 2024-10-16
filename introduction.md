@@ -51,6 +51,6 @@ Sonification’s deployment as a means of adding a new dimension to data analysi
 
 <b> Collaboration and Feedback: </b> Engaging with others, both for technical collaboration and for feedback on the sonification's effectiveness, can provide valuable insights and improve the final outcome. 
 
-<a href="https://mcmasteru365-my.sharepoint.com/:x:/g/personal/zeffiroa_mcmaster_ca/EWHy_kW4zL1Bjr4N7OxWG70BS5UhKlj7l9YT5IMSTgsf0w?e=vuCHQn" target="_blank" rel="noopener noreferrer">The data we used is available here</a> if you want to play around with it in Two-Tone yourself.  
+<a href="data/CSS_Quant_Sheet.xlsx" target="_blank" rel="noopener noreferrer">The data we used is available here</a> if you want to play around with it in Two-Tone yourself.  
 
 Here we go! 

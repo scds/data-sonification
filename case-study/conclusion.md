@@ -4,6 +4,7 @@ title: Conclusion
 nav_order: 4
 parent: Case Study
 has_children: true
+blank: true
 ---
 
 <!-- 
