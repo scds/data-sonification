@@ -20,7 +20,7 @@ To sonify the data derived from the discourse analysis, we had to convert the wo
 
 ## Scoring Framework
 
-We came up with this <a href="https://mcmasteru365-my.sharepoint.com/:w:/g/personal/zeffiroa_mcmaster_ca/EUNfy4BcNsZHhMkjdAuZAAUBJRqEvF1rZlBoOkx9f5tStQ?e=6y1eDo" target="_blank" rel="noopener noreferrer">Scoring Framework</a> informed by the insights generated through the discourse analysis. 
+We came up with this [Scoring Framework](../data/SCORING%20FRAMEWORK.pdf) informed by the insights generated through the discourse analysis. 
 
 <b> Perpetrators </b> refers to the intensity of language used to describe the individuals or entities deemed responsible for the data breach. Based on our research, we found that language ranged in intensity, with the use of the word ‘hacker’ evolving over time to be applied as shorthand to describe the breach as unauthorized and compromising. 
 

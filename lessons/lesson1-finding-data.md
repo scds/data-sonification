@@ -34,11 +34,11 @@ Start with pinpointing where you'll source your data from. This will heavily dep
 
 If you, like we were, are interested in datasets related to breaches specifically, you can skip straight to these datasets that we found:  
 
-1) <a href="https://datadryad.org/stash/dataset/doi:10.5061/dryad.24275c6" target="_blank" rel="noopener noreferrer">Data from: Health IT, hacking, and cybersecurity: national trends in data breaches of protected health information</a>
+1. <a href="https://datadryad.org/stash/dataset/doi:10.5061/dryad.24275c6" target="_blank" rel="noopener noreferrer">Data from: Health IT, hacking, and cybersecurity: national trends in data breaches of protected health information</a>
 
-2) <a href="https://journals.sagepub.com/doi/10.1177/18333583231158886" target="_blank" rel="noopener noreferrer">For-profit versus non-profit cybersecurity posture: breach types and locations in healthcare organisations</a> 
+2. <a href="https://journals.sagepub.com/doi/10.1177/18333583231158886" target="_blank" rel="noopener noreferrer">For-profit versus non-profit cybersecurity posture: breach types and locations in healthcare organisations</a> 
 
-3) <a href="https://www.kaggle.com/datasets/thedevastator/data-breaches-a-comprehensive-list" target="_blank" rel="noopener noreferrer">Data Breaches Dataset</a> 
+3. <a href="https://www.kaggle.com/datasets/thedevastator/data-breaches-a-comprehensive-list" target="_blank" rel="noopener noreferrer">Data Breaches Dataset</a> 
 
 <b> Why Reuse Data? </b> Reusing datasets can save time and resources if you’re just looking to get a handle on the process on sonification itself. It can also lead to new discoveries that were not envisioned by the original collectors, particularly because sonification is not a commonly deployed data presentation technique.  
  
@@ -46,9 +46,9 @@ However, if you are feeling ambitious and do want to start from scratch, you wil
 
 For our example study, the research team used Factiva, a versatile platform known not only for its business news but also for its extensive international newspaper, trade journal, blog, and website archives. For our purposes, Factiva offered 2 main benefits: 
 
-1) Broad international coverage. 
+1. Broad international coverage. 
 
-2) Useful for diverse topics like data breach events and geopolitical crises.  
+2. Useful for diverse topics like data breach events and geopolitical crises.  
 
 The main takeaway: Choose a source that aligns with your research objectives and provides vast and relevant coverage. 
 
