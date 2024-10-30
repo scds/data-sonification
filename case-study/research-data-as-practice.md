@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Parting Thoughts
-parent: Conclusion
+title: Research Data-As-Practice
+parent: Parting Thoughts
 grand_parent: Case Study
 nav_order: 1
 ---
@@ -13,9 +13,7 @@ Add, edit, or remove any content below for the workshop in question. -->
 <!-- Putting a {: .no_toc} above a header removes it from the table of contents -->
 
 {: .no_toc}  
-# Parting Thoughts
-
-## Research data-as-practice
+# Research data-as-practice
 
 We approached sonification as a process for conveying research data through sound. However, we aimed to understand how sonification could facilitate more open-ended interpretations of research findings rather than serve as a means of translating knowledge. Creating multiple sonifications with the same data set allowed us to reflect on how research data is inherently subjective, personal, interpretive and messy. Sonification can accentuate this productively, drawing out how data is always already ‘cooked’ (Gitelman and Jackson 2014). Researchers can apply sonification to corroborate findings, make inconsistencies audible, and extract new insights into a phenomenon.  To this end, we engaged with our research data as practice, not as an object.  
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How to Cite
-parent: Conclusion
+parent: Parting Thoughts
 grand_parent: Case Study
 nav_order: 6
 ---
