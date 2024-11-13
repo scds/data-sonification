@@ -14,11 +14,11 @@ Add, edit, or remove any content below for the workshop in question. -->
 {: .no_toc}  
 # Overview
 
-Our exploration of data sonification as a method stems from a larger multi-year SSHRC-funded project that traced the emergence of data breaches as a security crisis from 2005 to 2021. We examined 16 data breach cases and analyzed approximately 10-15 primary sources per year using critical discourse analysis (Foucault 1972; 1978) to understand how knowledge about data breaches is produced through how these events are discussed and represented. We share more about our process in the methods section.
+Our exploration of data sonification as a method stems from a larger multi-year SSHRC-funded project that traced the emergence of data breaches as a security crisis from 2005 to 2021. We examined 16 data breach cases and analyzed approximately 10-15 primary sources per year using critical discourse analysis[^1] [^2] to understand how knowledge about data breaches is produced through how these events are discussed and represented. We share more about our process in the methods section.
 
-My interest in the topic stems from a series of breach notifications I received over a few months in 2018. Following several high-profile incidents, the topic congealed into a project that began with a straightforward question: What is a data breach? 
+My interest in the topic stems from a series of breach notifications I received over a few months in 2018. Following several high-profile incidents, the topic congealed into a project that began with a straightforward question: What is a data breach?
 
-A data breach is marked by unauthorized access to and loss of control of private, confidential, and sensitive data. Data breaches have grown exponentially over the last fifteen years because consumer data generated across platforms and between devices is circulated and collected at an unprecedented rate. Coupled with consumers’ willingness to share personal information, this has contributed to what Michael Parent (2019) called an “era of big data breaches” (see: Zeffiro et al. 2023).  
+A data breach is marked by unauthorized access to and loss of control of private, confidential, and sensitive data. Data breaches have grown exponentially over the last fifteen years because consumer data generated across platforms and between devices is circulated and collected at an unprecedented rate. Coupled with consumers’ willingness to share personal information, this has contributed to what Michael Parent[^3] called an “era of big data breaches”.[^4]  
 
 Data breaches can have serious geopolitical impacts, affecting individuals, organizations, and nation-states increasingly in interlocking ways. However, cybersecurity rhetoric and mainstream media make data breaches intelligible, affecting what the term signifies and how it is used and understood. This project examines data breaches as social, political, and cultural processes rather than strictly technological phenomena. This is to say that while the connection between data breaches and security is real and not just rhetorical, the understanding of data breaches as security crises is shaped by the historical contexts from which data breaches emerge (see: Zeffiro et al. 2023). 
 
@@ -29,3 +29,11 @@ Cybersecurity incidents like data breaches are often presented as a crisis to th
 Breaches are so prevalent that the cybersecurity industry has coined the term ‘breach fatigue’ to describe the indifference caused by being overwhelmed by what feels like an unresolvable and inevitable string of events (Zeffiro et al. 2023). Indeed, ‘breach fatigue’ neatly encapsulates how some people might feel about and understand a complex technological phenomenon. Yet, it universalizes the response and limits the affective dimensions of data breaches. <em> How do people feel </em> when confronted by data breaches? 
 
 Furthermore, because the research team spent approximately a year conducting critical discourse analysis on primary sources from widespread press coverage of data breaches, I was interested in revisiting the perceptions of data breaches that crystallized through discourse analysis. In short, I wanted to extend a consideration of the affective dimension of data breaches to reengage with our findings.  
+
+[^1]: Foucault, M. (1972). <em> The archaeology of knowledge. </em> Trans. A. Sheridan Smith. New York:  Pantheon Books. 
+
+[^2]: Foucault, M. (1978). <em> The history of sexuality: Volume I. </em> New York: Random House.   
+
+[^3]: Parent, M. (2019 December 4). Growth in data breaches shows need for government regulations. The Conversation. https://theconversation.com/growth-in-data-breaches-shows-need-for-government-regulations-127600
+
+[^4]: Zeffiro, Andrea., Niessen, Gil, Oberst, Clementine, McEwan, Sam, Cochrane, Alexis, Carlota, Durand, Joshua. (2023). “Discourses on cybersecurity: The politics of the data breach as a security crisis.” Rivista di Digital Politics. pp. 369-398. https://www.rivisteweb.it/doi/10.53227/106451
