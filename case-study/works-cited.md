@@ -35,6 +35,8 @@ Foucault, M. (1978). <em> The history of sexuality: Volume I. </em> New York: Ra
 
 Foucault, M. (1972). <em> The archaeology of knowledge. </em> Trans. A. Sheridan Smith. New York:  Pantheon Books. 
 
+Gill, R. (2000). Discourse analysis. In M. Bauer & G. Gaskell (Eds.) *Qualitative Researching with Text, Image and Sound: A Practical Handbook.* London: Sage Publications, pp.172-190.
+
 Gitelman, L., & Jackson, V. (2013). Introduction. In L. Gitelman and V. Jackson (Eds.), <em> “Raw data” Is an oxymoron </em> (pp. 1-14). Cambridge, MA: MIT Press. 
 
 Gjesvik, L., and Szulecki, K, (2022) Interpreting cyber-energy-security events: experts, social imaginaries, and policy discourses around the 2016 Ukraine blackout, <em> European Security, </em> 32(1). <https://doi.org/10.1080/09662839.2022.2082838> 
@@ -46,6 +48,8 @@ Helmreich, S. (2000). Flexible infections: Computer viruses, human bodies, natio
 Hansen, L., & Nissenbaum, H. (2009). Digital disaster, cyber security, and the Copenhagen School. <em> International Studies Quarterly, </em> 53, 1155–1175. 
 
 Karlin, F., & Wright, R. (2004). <em> On the track: A guide to contemporary film scoring. </em> Taylor & Francis Group. 
+
+Liebetrau, T., and Christensen, K.K. (2020). The ontological politics of cyber security: Emerging agencies, actors, sites, and spaces. European Journal of International Security, 6(1), 25-43.
 
 McKinney, C. and Mulvin, D. (2019). Bugs: Rethinking the history of computing. <em> Communication, Culture and Critique, </em> 12(4), 476–49. 
 
