@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Works Cited
-parent: Parting Thoughts
-grand_parent: Case Study
-nav_order: 2
+parent: Case Study
+nav_order: 8
 ---
 
 <!-- 

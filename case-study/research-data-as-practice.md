@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Research Data-As-Practice
-parent: Parting Thoughts
-grand_parent: Case Study
-nav_order: 1
+parent: Case Study
+nav_order: 7
 ---
 
 <!-- 

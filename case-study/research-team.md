@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Research Team
-parent: Parting Thoughts
-grand_parent: Case Study
-nav_order: 3
+parent: Case Study
+nav_order: 9
 ---
 
 <!-- 

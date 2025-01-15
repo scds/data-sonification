@@ -1,9 +1,8 @@
 ---
 layout: default
 title: How to Cite
-parent: Parting Thoughts
-grand_parent: Case Study
-nav_order: 6
+parent: Case Study
+nav_order: 12
 ---
 
 <!-- 

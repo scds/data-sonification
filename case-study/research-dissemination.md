@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Research Dissemination
-parent: Parting Thoughts
-grand_parent: Case Study
-nav_order: 4
+parent: Case Study
+nav_order: 10
 ---
 
 <!-- 

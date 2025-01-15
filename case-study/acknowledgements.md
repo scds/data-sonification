@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Acknowledgements
-parent: Parting Thoughts
-grand_parent: Case Study
-nav_order: 5
+parent: Case Study
+nav_order: 11
 ---
 
 <!-- 
