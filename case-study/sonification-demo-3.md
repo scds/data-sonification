@@ -13,7 +13,21 @@ Add, edit, or remove any content below for the workshop in question. -->
 <!-- Putting a {: .no_toc} above a header removes it from the table of contents -->
 
 {: .no_toc}  
-# Sonification Demo 3
+# Sonification Demo 3 
+
+<audio controls preload="auto" style="width: 100%">
+  <source src="../data/audio/EXAMPLE 3.mp3" type="audio/mpeg">
+[Download audio here.](../data/audio/EXAMPLE 3.mp3)
+</audio> 
+
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/ca021117-cc6a-4247-ae97-0b22624fffb1/public"></iframe>
+[View original here.](https://echo360.ca/media/ca021117-cc6a-4247-ae97-0b22624fffb1/public)
+
+- [Example 3 Code Book](../data/EXAMPLE%203%20CODE%20BOOK.pdf)
+
+This example features a foreboding, march-like rhythm using archetypal compositional techniques to convey tension, particularly through pizzicato on cello or bass[^1] (p. 94). he surrounding instrumentation fills the sonic space around this rhythmic foundation, with different voices emerging unpredictably to create a shifting and uneasy soundscape. Listeners may hear dissonant 'trumpet' voices that disrupt the drone-like melodic lines, highlighting the track's use of contrapuntal and polytonal qualities[^1] (p. 233). These elements aim to add layers of complexity and dimensionality distinct from visual data comprehension.
+
+Our interpretation suggests that this example emphasizes "breach fatigue," with the sounds symbolizing the relentless, organized nature of cyber threats. The march-like rhythm reflects the systematic approach of cyber attackers, while dissonant interruptions and clashing polytonal elements represent the chaos and unpredictability of breaches, as well as the varied and sometimes disjointed responses to them. This sonification may evoke a heightened sense of urgency and murkiness, mirroring the multifaceted and complex nature of cybersecurity discussions.
 
 Example 3 was developed by using Example 2 as a starting point, with only some tracks altered to observe the subtle changes between the two examples. How would the effect change if the instruments in the tracks that form the melodies were different?
 
@@ -68,21 +82,5 @@ In example 2, the <b> breach </b> variable was represented by the bass guitar at
 [View original here.](https://echo360.ca/media/84ecbc20-4fd2-49c2-8f23-7e855843b9cf/public)
 
 <b> Company risk </b> is once again represented by a harp at a 12x tempo in F minor. However, it is set an octave higher than in example 2.7 to enhance the droning effect. This adjustment ensures that the few data points indicating when a risk to the company was noted stand out more prominently.
-
-#### Example 3 Sonification 
-
-<audio controls preload="auto" style="width: 100%">
-  <source src="../data/audio/EXAMPLE 3.mp3" type="audio/mpeg">
-[Download audio here.](../data/audio/EXAMPLE 3.mp3)
-</audio> 
-
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/ca021117-cc6a-4247-ae97-0b22624fffb1/public"></iframe>
-[View original here.](https://echo360.ca/media/ca021117-cc6a-4247-ae97-0b22624fffb1/public)
-
-- [Example 3 Code Book](../data/EXAMPLE%203%20CODE%20BOOK.pdf)
-
-This example features a foreboding, march-like rhythm using archetypal compositional techniques to convey tension, particularly through pizzicato on cello or bass[^1] (p. 94). he surrounding instrumentation fills the sonic space around this rhythmic foundation, with different voices emerging unpredictably to create a shifting and uneasy soundscape. Listeners may hear dissonant 'trumpet' voices that disrupt the drone-like melodic lines, highlighting the track's use of contrapuntal and polytonal qualities[^1] (p. 233). These elements aim to add layers of complexity and dimensionality distinct from visual data comprehension.
-
-Our interpretation suggests that this example emphasizes "breach fatigue," with the sounds symbolizing the relentless, organized nature of cyber threats. The march-like rhythm reflects the systematic approach of cyber attackers, while dissonant interruptions and clashing polytonal elements represent the chaos and unpredictability of breaches, as well as the varied and sometimes disjointed responses to them. This sonification may evoke a heightened sense of urgency and murkiness, mirroring the multifaceted and complex nature of cybersecurity discussions.
 
 [^1]: Karlin, F., & Wright, R. (2004). On the track: A guide to contemporary film scoring. Taylor & Francis Group.

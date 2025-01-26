@@ -15,6 +15,18 @@ Add, edit, or remove any content below for the workshop in question. -->
 {: .no_toc}  
 # Sonification Demo 2
 
+<audio controls preload="auto" style="width: 100%">
+  <source src="../data/audio/EXAMPLE 2.mp3" type="audio/mpeg">
+[Download audio here.](../data/audio/EXAMPLE 2.mp3)
+</audio> 
+
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/8a25a769-9af4-4245-927e-40e6896d5220/public"></iframe>
+[View original here.](https://echo360.ca/media/8a25a769-9af4-4245-927e-40e6896d5220/public)
+
+- [Example 2 Code Book](../data/EXAMPLE%202%20CODE%20BOOK.pdf)
+
+Example 2 intentionally distorts nearly all sounds that could be recognized as traditional instruments, amplifying their effects to levels often heard in experimental genres. This distortion is a deliberate attempt to push the technological boundaries, resulting in new sounds that aim to place listeners in unexpected emotional states. The intentional distortion and amplification of the synthesized instrument sounds reflect the often overwhelming and disruptive nature of data breaches. The occasional 'pop out' sonic moments represent sudden shifts in how language was used to describe breach events, often coinciding with particular cultural or geopolitical moments in the West.
+
 After months of experimenting with the dataset in TwoTone, I decided it was time to choose a key to work within. I selected D minor. The notes in the D minor scale are D, E, F, G, A, Bb, C, and D. Traditionally, D minor is associated with emotions such as melancholy, introspection, anxiety, uncertainty, and despondence.
 
 Before the 20th century, it was common to associate musical keys with specific emotional or qualitative characteristics. This understanding was part of the shared cultural experience among those who created, performed, and listened to music. For example, when composers like Mozart, Beethoven, or Schubert wrote a piece in Ab major, known as the 'key of the grave', many in their audience would recognize this association.[^1]  
@@ -78,18 +90,5 @@ Like size, <b> risk </b> is represented by a trumpet at a 12x tempo, but in the 
 [View original here.](https://echo360.ca/media/e8bc35e1-42c3-440e-9b7d-312179c09630/public)
 
 As the companion narrative to company named, <b> company risk </b> is represented by a harp at a 12x tempo but in F minor to complement and differentiate it from company named. Although this variable has more variation than company named, it remains relatively monotonous. Consequently, the sections that sonify a documented risk to a company are distinct and discernible.
-
-#### Example 2 Sonification  
-<audio controls preload="auto" style="width: 100%">
-  <source src="../data/audio/EXAMPLE 2.mp3" type="audio/mpeg">
-[Download audio here.](../data/audio/EXAMPLE 2.mp3)
-</audio> 
-
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/8a25a769-9af4-4245-927e-40e6896d5220/public"></iframe>
-[View original here.](https://echo360.ca/media/8a25a769-9af4-4245-927e-40e6896d5220/public)
-
-- [Example 2 Code Book](../data/EXAMPLE%202%20CODE%20BOOK.pdf)
-
-Example 2 intentionally distorts nearly all sounds that could be recognized as traditional instruments, amplifying their effects to levels often heard in experimental genres. This distortion is a deliberate attempt to push the technological boundaries, resulting in new sounds that aim to place listeners in unexpected emotional states. The intentional distortion and amplification of the synthesized instrument sounds reflect the often overwhelming and disruptive nature of data breaches. The occasional 'pop out' sonic moments represent sudden shifts in how language was used to describe breach events, often coinciding with particular cultural or geopolitical moments in the West.
 
 [^1]: Steblin, R. (1983). A history of key characteristics in the 18th and early 19th centuries. UMI Research Press.
