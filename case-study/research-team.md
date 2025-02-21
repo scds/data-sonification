@@ -22,7 +22,7 @@ Dr. Andrea Zeffiro, Associate Professor, Department of Communication Studies and
 
 Alexis-Carlota Cochrane, Doctoral Candidate, PhD in Communication, New Media and Cultural Studies, Department of Communication Studies and Media Arts 
 
-Joshua Durand, 4th year student, Arts & Science and Communication Studies and Media Arts 
+Joshua Durand, 4th year, Arts & Science and Communication Studies and Media Arts 
 
 Sam McEwan, Doctoral Candidate, PhD in Communication, New Media and Cultural Studies, Department of Communication Studies and Media Arts 
 
