@@ -39,7 +39,7 @@ Perpetrators and breach remained the anchoring narratives, to which risk was add
 
 I wanted to experiment with distorting the key melodies to explore how the framing of data breaches as security crises is also distorted and shaped by the social, political, and historical contexts in which these events occur.
 
-Below is a detailed explanation of the reasoning behind the choices made for specific tracks. Following this section is the complete sonification.
+Below is a detailed explanation of the reasoning behind the choices made for specific tracks. 
 
 #### EXAMPLE 3.1 SIZE
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/66bb8ec2-805d-49c0-9ab2-80c0d4b83ebf/public"></iframe>
