@@ -81,6 +81,6 @@ In example 2, the <b> breach </b> variable was represented by the bass guitar at
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/84ecbc20-4fd2-49c2-8f23-7e855843b9cf/public"></iframe>
 [View original here.](https://echo360.ca/media/84ecbc20-4fd2-49c2-8f23-7e855843b9cf/public)
 
-<b> Company risk </b> is once again represented by a harp at a 12x tempo in F minor. However, it is set an octave higher than in example 2.7 to enhance the droning effect. This adjustment ensures that the few data points indicating when a risk to the company was noted stand out more prominently.
+<b> Company risk </b> is once again represented by a harp at a 12x tempo in F minor. However, it is set an octave higher than in example 2.7 to enhance the droning effect. This adjustment ensures that the few data points indicating when a risk to the company was noted stand out.
 
 [^1]: Karlin, F., & Wright, R. (2004). On the track: A guide to contemporary film scoring. Taylor & Francis Group.
